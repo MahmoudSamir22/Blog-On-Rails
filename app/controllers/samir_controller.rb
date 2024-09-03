@@ -1,0 +1,2 @@
+class SamirController < ApplicationController
+end
